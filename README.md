@@ -1,1 +1,1 @@
-i am mahan
+print("hello world!")
